@@ -1,0 +1,1 @@
+Put ludo-icon.png and shaurya-remote-icon.png in this folder.

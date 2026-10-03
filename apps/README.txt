@@ -1,0 +1,1 @@
+Put ludo-king.apk and shaurya-remote.apk in this folder.
